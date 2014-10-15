@@ -1,0 +1,40 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.content {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+td a {
+    padding-right: 10px;
+}
+td a:hover {
+    text-decoration: none;
+}
+
+.natrune .label-info {
+    font-size: 20px;
+}
+
+.formContainer {
+    width: 500px;
+}
+.formContainer .alert {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+td.green {
+    background-color: green;
+}
+
+td.orange {
+    background-color: orange;
+}
+
+td.red {
+    background-color: red;
+}
